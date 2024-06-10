@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.css';
+import './bootstrap/dist/css/bootstrap.css';
 import Navigation from "./navigation";
 import About from './aboutme';
 import Skills from './skills';
