@@ -4,7 +4,7 @@ import ContactForm from "./ContactForm";
 import ContactCard from "./ContactCard";
 import "./App.css";
 
-const App = () => {
+const Main = () => {
   const [contacts, setContacts] = useState([]);
   const [showForm, setShowForm] = useState(false);
   const [editContact, setEditContact] = useState(null);
